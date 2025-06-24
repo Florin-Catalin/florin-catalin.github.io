@@ -66,5 +66,3 @@ const QuizWithTimer: React.FC = () => {
 };
 
 export default QuizWithTimer;
-
-/homepage": "https://your-username.github.io/your-repo"
