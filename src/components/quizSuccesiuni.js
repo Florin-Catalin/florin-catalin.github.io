@@ -4,7 +4,8 @@ export const quizSuccesiuni = {
   nrOfQuestions: 4,
   questions: [
     {
-      question: "401. În caz de deces, transmisiunea patrimoniului defunctului se realizează:",
+      id: 301,
+      question: "În caz de deces, transmisiunea patrimoniului defunctului se realizează:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -18,7 +19,8 @@ export const quizSuccesiuni = {
       point: 1
     },
     {
-      question: "402. Moştenitorii testamentari se deosebesc de moştenitorii legali care nu vin la succesiune doar pentru a culege rezerva succesorală:",
+      id: 302,
+      question: "Moştenitorii testamentari se deosebesc de moştenitorii legali care nu vin la succesiune doar pentru a culege rezerva succesorală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -32,7 +34,8 @@ export const quizSuccesiuni = {
       point: 1
     },
     {
-      question: "403. În ipoteza în care defunctul lasă testament:",
+      id: 303,
+      question: "În ipoteza în care defunctul lasă testament:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -46,7 +49,8 @@ export const quizSuccesiuni = {
       point: 1
     },
     {
-      question: "404. În materia succesiunii:",
+      id: 304,
+      question: "În materia succesiunii:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [

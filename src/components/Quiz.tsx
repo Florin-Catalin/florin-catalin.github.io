@@ -4,6 +4,7 @@ import { quizCivilReale } from './quizCivilReale';
 import { quizContracteSpeciale } from './quizContracteSpeciale';
 import { quizSuccesiuni } from './quizSuccesiuni';
 import { quizObligatii } from './quizObligatii';
+import { quizToate } from './quizToate';
 import {
     Box,
     Typography,
@@ -20,7 +21,7 @@ const QuizWithTimer: React.FC = () => {
   const [timer, setTimer] = useState(TIMER_SECONDS);
   const [quizFinished, setQuizFinished] = useState(false);
   const [started, setStarted] = useState(false);
-  const [selectedQuiz, setSelectedQuiz] = useState<'civil' | 'contracte' | 'succesiuni' | 'obligatii'>('civil');
+  const [selectedQuiz, setSelectedQuiz] = useState<'civil' | 'contracte' | 'succesiuni' | 'obligatii' | 'toate'>('civil');
   const [score, setScore] = useState(0);
   const [passed, setPassed] = useState<boolean | null>(null);
 
@@ -53,7 +54,7 @@ const QuizWithTimer: React.FC = () => {
 
   const handleQuizChange = (
     event: React.MouseEvent<HTMLElement>,
-    newQuiz: 'civil' | 'contracte' | 'succesiuni' | 'obligatii' | null
+    newQuiz: 'civil' | 'contracte' | 'succesiuni' | 'obligatii' | 'toate' | null
   ) => {
     if (newQuiz) {
       setSelectedQuiz(newQuiz);
@@ -77,6 +78,9 @@ const QuizWithTimer: React.FC = () => {
   } else if (selectedQuiz === 'obligatii') {
     currentQuiz = quizObligatii;
     quizTitle = 'DREPT CIVIL OBLIGAȚII';
+  } else if (selectedQuiz === 'toate') {
+    currentQuiz = quizToate;
+    quizTitle = 'TOATE ÎNTREBĂRILE';
   }
 
   return (
@@ -98,6 +102,7 @@ const QuizWithTimer: React.FC = () => {
               <ToggleButton value="contracte">Drept Civil Contracte Speciale</ToggleButton>
               <ToggleButton value="succesiuni">Drept Civil Succesiuni</ToggleButton>
               <ToggleButton value="obligatii">Drept Civil Obligații</ToggleButton>
+              <ToggleButton value="toate">TOATE ÎNTREBĂRILE</ToggleButton>
             </ToggleButtonGroup>
             <Box sx={{ mt: 3, mb: 2, display: 'flex', justifyContent: 'center' }}>
               <Button
@@ -158,7 +163,7 @@ const QuizWithTimer: React.FC = () => {
             {!quizFinished ? (
               <QuizComponent
                 quiz={currentQuiz}
-                shuffle={true}
+                shuffle={true} // this will randomize the questions
                 showInstantFeedback={false}
                 showDefaultResult={true}
                 onComplete={onComplete}

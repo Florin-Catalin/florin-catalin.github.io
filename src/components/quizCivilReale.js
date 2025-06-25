@@ -4,7 +4,8 @@ export const quizCivilReale = {
   nrOfQuestions: 16,
   questions: [
     {
-      question: "101. Dreptul de proprietate prezintă următoarele caractere juridice:",
+      id: 101,
+      question: "Dreptul de proprietate prezintă următoarele caractere juridice:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -18,7 +19,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "102. Dreptul de proprietate privată este:",
+      id: 102,
+      question: "Dreptul de proprietate privată este:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -32,7 +34,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "103. Prin caracterul absolut al dreptului de proprietate privată întelege:",
+      id: 103,
+      question: "Prin caracterul absolut al dreptului de proprietate privată întelege:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -46,7 +49,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "104. În raport de titular proprietatea este:",
+      id: 104,
+      question: "În raport de titular proprietatea este:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -60,7 +64,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "105. Este un atribut al dreptului de proprietate:",
+      id: 105,
+      question: "Este un atribut al dreptului de proprietate:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -74,7 +79,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "106. Ius abutendi conferă titularului:",
+      id: 106,
+      question: "Ius abutendi conferă titularului:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -88,7 +94,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "107. Bunurile care fac obiectul proprietății publice sunt:",
+      id: 107,
+      question: "Bunurile care fac obiectul proprietății publice sunt:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -102,7 +109,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "108. Are calitate procesuală activă în cazul acţiunii în revendicare:",
+      id: 108,
+      question: "Are calitate procesuală activă în cazul acţiunii în revendicare:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -116,7 +124,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "109. Poate avea calitate procesuală pasivă în cazul acţiunii în revendicare:",
+      id: 109,
+      question: "Poate avea calitate procesuală pasivă în cazul acţiunii în revendicare:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -130,7 +139,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "110. În cazul imobilelor înscrise în cartea funciară, proba dreptului de proprietate se face cu:",
+      id: 110,
+      question: "În cazul imobilelor înscrise în cartea funciară, proba dreptului de proprietate se face cu:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -144,7 +154,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "111. Acțiunea în revendicare prezintă următoarele caractere juridice:",
+      id: 111,
+      question: "Acțiunea în revendicare prezintă următoarele caractere juridice:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -158,7 +169,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "112. În cazul admiterii acţiunii în revendicare, pârâtul poate fi obligat:",
+      id: 112,
+      question: "În cazul admiterii acţiunii în revendicare, pârâtul poate fi obligat:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -172,7 +184,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "113. Este o modalitate a dreptului de proprietate:",
+      id: 113,
+      question: "Este o modalitate a dreptului de proprietate:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -186,7 +199,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "114. Coproprietatea pe cote-părți dă dreptul fiecărui coproprietar:",
+      id: 114,
+      question: "Coproprietatea pe cote-părți dă dreptul fiecărui coproprietar:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -200,7 +214,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "115. Fiecare dintre coproprietari are dreptul de a folosi bunul comun:",
+      id: 115,
+      question: "Fiecare dintre coproprietari are dreptul de a folosi bunul comun:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -214,7 +229,8 @@ export const quizCivilReale = {
       point: 1
     },
     {
-      question: "116. Fiecare coproprietar poate să facă acte de conservare cu privire la bunul comun:",
+      id: 116,
+      question: "Fiecare coproprietar poate să facă acte de conservare cu privire la bunul comun:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [

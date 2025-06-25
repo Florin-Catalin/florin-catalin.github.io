@@ -4,7 +4,8 @@ export const quizObligatii = {
   nrOfQuestions: 7,
   questions: [
     {
-      question: "201. Obligația civilă este:",
+      id: 401,
+      question: "Obligația civilă este:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -18,7 +19,8 @@ export const quizObligatii = {
       point: 1
     },
     {
-      question: "202. Sunt elemente ale raportului obligaţional:",
+      id: 402,
+      question: "Sunt elemente ale raportului obligaţional:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -32,7 +34,8 @@ export const quizObligatii = {
       point: 1
     },
     {
-      question: "203. Sunt izvoare ale obligațiilor:",
+      id: 403,
+      question: "Sunt izvoare ale obligațiilor:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -46,7 +49,8 @@ export const quizObligatii = {
       point: 1
     },
     {
-      question: "204. Obligațiile de a da:",
+      id: 404,
+      question: "Obligațiile de a da:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -60,7 +64,8 @@ export const quizObligatii = {
       point: 1
     },
     {
-      question: "205. Obligațiile de a da:",
+      id: 405,
+      question: "Obligațiile de a da:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -74,7 +79,8 @@ export const quizObligatii = {
       point: 1
     },
     {
-      question: "206. Obligațiile pecuniare:",
+      id: 406,
+      question: "Obligațiile pecuniare:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -88,7 +94,8 @@ export const quizObligatii = {
       point: 1
     },
     {
-      question: "207. Obligația de a câștiga un proces pe care și-o asumă un avocat prin contractul de asistență juridică încheiat cu un client:",
+      id: 407,
+      question: "Obligația de a câștiga un proces pe care și-o asumă un avocat prin contractul de asistență juridică încheiat cu un client:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [

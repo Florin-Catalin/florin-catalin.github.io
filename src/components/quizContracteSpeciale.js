@@ -4,7 +4,8 @@ export const quizContracteSpeciale = {
   nrOfQuestions: 9,
   questions: [
     {
-      question: "108. Are calitate procesuală activă în cazul acţiunii în revendicare:",
+      id: 201,
+      question: "Are calitate procesuală activă în cazul acţiunii în revendicare:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -18,7 +19,8 @@ export const quizContracteSpeciale = {
       point: 1
     },
     {
-      question: "109. Poate avea calitate procesuală pasivă în cazul acţiunii în revendicare:",
+      id: 202,
+      question: "Poate avea calitate procesuală pasivă în cazul acţiunii în revendicare:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -32,7 +34,8 @@ export const quizContracteSpeciale = {
       point: 1
     },
     {
-      question: "110. În cazul imobilelor înscrise în cartea funciară, proba dreptului de proprietate se face cu:",
+      id: 203,
+      question: "În cazul imobilelor înscrise în cartea funciară, proba dreptului de proprietate se face cu:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -46,7 +49,8 @@ export const quizContracteSpeciale = {
       point: 1
     },
     {
-      question: "111. Acțiunea în revendicare prezintă următoarele caractere juridice:",
+      id: 204,
+      question: "Acțiunea în revendicare prezintă următoarele caractere juridice:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -60,7 +64,8 @@ export const quizContracteSpeciale = {
       point: 1
     },
     {
-      question: "112. În cazul admiterii acţiunii în revendicare, pârâtul poate fi obligat:",
+      id: 205,
+      question: "În cazul admiterii acţiunii în revendicare, pârâtul poate fi obligat:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -74,7 +79,8 @@ export const quizContracteSpeciale = {
       point: 1
     },
     {
-      question: "113. Este o modalitate a dreptului de proprietate:",
+      id: 206,
+      question: "Este o modalitate a dreptului de proprietate:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -88,7 +94,8 @@ export const quizContracteSpeciale = {
       point: 1
     },
     {
-      question: "114. Coproprietatea pe cote-părți dă dreptul fiecărui coproprietar:",
+      id: 207,
+      question: "Coproprietatea pe cote-părți dă dreptul fiecărui coproprietar:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -102,7 +109,8 @@ export const quizContracteSpeciale = {
       point: 1
     },
     {
-      question: "115. Fiecare dintre coproprietari are dreptul de a folosi bunul comun:",
+      id: 208,
+      question: "Fiecare dintre coproprietari are dreptul de a folosi bunul comun:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -116,7 +124,8 @@ export const quizContracteSpeciale = {
       point: 1
     },
     {
-      question: "116. Fiecare coproprietar poate să facă acte de conservare cu privire la bunul comun:",
+      id: 209,
+      question: "Fiecare coproprietar poate să facă acte de conservare cu privire la bunul comun:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
