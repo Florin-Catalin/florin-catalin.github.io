@@ -99,8 +99,27 @@ const QuizWithTimer: React.FC = () => {
         </ToggleButtonGroup>
         {!started && (
           <Box sx={{ mt: 3, mb: 2, display: 'flex', justifyContent: 'center' }}>
-            <Button variant="contained" color="primary" onClick={handleStart}>
-              Start Quiz
+            <Button
+              variant="contained"
+              onClick={handleStart}
+              sx={{
+                background: 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)',
+                color: '#fff',
+                fontWeight: 700,
+                fontSize: 22,
+                px: 6,
+                py: 1.5,
+                borderRadius: 3,
+                letterSpacing: 2,
+                boxShadow: 4,
+                fontFamily: 'Montserrat, Arial, sans-serif',
+                '&:hover': {
+                  background: 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)',
+                  boxShadow: 6,
+                },
+              }}
+            >
+              ÎNCEPE
             </Button>
           </Box>
         )}
