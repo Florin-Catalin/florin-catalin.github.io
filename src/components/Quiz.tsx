@@ -82,77 +82,106 @@ const QuizWithTimer: React.FC = () => {
   return (
     <Box sx={{ maxWidth: 700, mx: 'auto', mt: 4 }}>
       <Paper elevation={6} sx={{ p: 3, bgcolor: 'rgba(255,255,255,0.95)', borderRadius: 3 }}>
-        <Typography variant="h4" gutterBottom>
-          {quizTitle}
-        </Typography>
-        <ToggleButtonGroup
-          color="primary"
-          value={selectedQuiz}
-          exclusive
-          onChange={handleQuizChange}
-          sx={{ mb: 2, flexWrap: 'wrap' }}
-        >
-          <ToggleButton value="civil">Drept Civil Drepturi Reale</ToggleButton>
-          <ToggleButton value="contracte">Drept Civil Contracte Speciale</ToggleButton>
-          <ToggleButton value="succesiuni">Drept Civil Succesiuni</ToggleButton>
-          <ToggleButton value="obligatii">Drept Civil Obligații</ToggleButton>
-        </ToggleButtonGroup>
         {!started && (
-          <Box sx={{ mt: 3, mb: 2, display: 'flex', justifyContent: 'center' }}>
-            <Button
-              variant="contained"
-              onClick={handleStart}
-              sx={{
-                background: 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)',
-                color: '#fff',
-                fontWeight: 700,
-                fontSize: 22,
-                px: 6,
-                py: 1.5,
-                borderRadius: 3,
-                letterSpacing: 2,
-                boxShadow: 4,
-                fontFamily: 'Montserrat, Arial, sans-serif',
-                '&:hover': {
-                  background: 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)',
-                  boxShadow: 6,
-                },
-              }}
+          <>
+            <Typography variant="h4" gutterBottom>
+              {quizTitle}
+            </Typography>
+            <ToggleButtonGroup
+              color="primary"
+              value={selectedQuiz}
+              exclusive
+              onChange={handleQuizChange}
+              sx={{ mb: 2, flexWrap: 'wrap' }}
             >
-              ÎNCEPE
-            </Button>
-          </Box>
+              <ToggleButton value="civil">Drept Civil Drepturi Reale</ToggleButton>
+              <ToggleButton value="contracte">Drept Civil Contracte Speciale</ToggleButton>
+              <ToggleButton value="succesiuni">Drept Civil Succesiuni</ToggleButton>
+              <ToggleButton value="obligatii">Drept Civil Obligații</ToggleButton>
+            </ToggleButtonGroup>
+            <Box sx={{ mt: 3, mb: 2, display: 'flex', justifyContent: 'center' }}>
+              <Button
+                variant="contained"
+                onClick={handleStart}
+                sx={{
+                  background: 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)',
+                  color: '#fff',
+                  fontWeight: 700,
+                  fontSize: 22,
+                  px: 6,
+                  py: 1.5,
+                  borderRadius: 3,
+                  letterSpacing: 2,
+                  boxShadow: 4,
+                  fontFamily: 'Montserrat, Arial, sans-serif',
+                  '&:hover': {
+                    background: 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)',
+                    boxShadow: 6,
+                  },
+                }}
+              >
+                ÎNCEPE
+              </Button>
+            </Box>
+          </>
         )}
         {started && (
-          <Typography variant="h6" color={timer < 10 ? 'error' : 'primary'} sx={{ mb: 2 }}>
-            Time Left: {timer}s
-          </Typography>
-        )}
-        {started && !quizFinished ? (
-          <QuizComponent
-            quiz={currentQuiz}
-            shuffle={true}
-            showInstantFeedback={false}
-            showDefaultResult={true}
-            onComplete={onComplete}
-          />
-        ) : started && quizFinished ? (
           <>
-            <Typography variant="h5" color="error" align="center" sx={{ mt: 4 }}>
-              {timer === 0 ? 'Time is up!' : 'Quiz Finished!'}
-            </Typography>
-            {passed !== null && (
-              <Typography
-                variant="h5"
-                align="center"
-                sx={{ mt: 2 }}
-                color={passed ? 'success.main' : 'error.main'}
-              >
-                {passed ? 'Testul a fost promovat!' : 'Testul nu a fost promovat.'}
+            <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
+              <Typography variant="h6" color={timer < 10 ? 'error' : 'primary'}>
+                Time Left: {timer}s
               </Typography>
+              <Button
+                variant="outlined"
+                color="error"
+                onClick={() => {
+                  setStarted(false);
+                  setQuizFinished(false);
+                  setTimer(TIMER_SECONDS);
+                  setPassed(null);
+                  setScore(0);
+                }}
+                sx={{
+                  ml: 2,
+                  fontWeight: 700,
+                  fontFamily: 'Montserrat, Arial, sans-serif',
+                  borderRadius: 2,
+                  borderWidth: 2,
+                  letterSpacing: 1,
+                  px: 3,
+                  py: 1,
+                }}
+              >
+                OPREȘTE
+              </Button>
+            </Box>
+            {!quizFinished ? (
+              <QuizComponent
+                quiz={currentQuiz}
+                shuffle={true}
+                showInstantFeedback={false}
+                showDefaultResult={true}
+                onComplete={onComplete}
+              />
+            ) : (
+              <>
+                <Typography variant="h5" color="error" align="center" sx={{ mt: 4 }}>
+                  {timer === 0 ? 'Time is up!' : 'Quiz Finished!'}
+                </Typography>
+                {passed !== null && (
+                  <Typography
+                    variant="h5"
+                    align="center"
+                    sx={{ mt: 2 }}
+                    color={passed ? 'success.main' : 'error.main'}
+                  >
+                    {passed ? 'Testul a fost promovat!' : 'Testul nu a fost promovat.'}
+                  </Typography>
+                )}
+              </>
             )}
           </>
-        ) : null}
+        )}
       </Paper>
     </Box>
   );
