@@ -7,7 +7,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build -b main",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -30,7 +30,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://florin-catalin.github.io/",
+  "homepage": "https://florin-catalin.github.io/react-quiz-app/",
   "browserslist": {
     "production": [
       ">0.2%",
