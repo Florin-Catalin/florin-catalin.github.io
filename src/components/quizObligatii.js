@@ -58,9 +58,9 @@ export const quizObligatii = {
         "b) au întotdeauna natură patrimonială",
         "c) implică îndatorirea debitorului de a preda un bun corporal creditorului"
       ],
-      correctAnswer: "3",
+      correctAnswer: "2",
       messageForCorrectAnswer: "Corect! Obligațiile de a da implică predarea unui bun corporal.",
-      messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
+      messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
       point: 1
     },
     {
@@ -88,7 +88,7 @@ export const quizObligatii = {
         "b) pot fi executate întotdeauna silit în natura lor",
         "c) sunt întotdeauna de mijloace"
       ],
-      correctAnswer: "3",
+      correctAnswer: "1",
       messageForCorrectAnswer: "Corect! Obligațiile pecuniare sunt întotdeauna de mijloace.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
@@ -223,9 +223,9 @@ export const quizObligatii = {
         "b) destinatarul o refuză;",
         "c) ofertantul devine incapabil înainte de acceptarea ei."
       ],
-      correctAnswer: "3",
-      messageForCorrectAnswer: "Corect! Oferta devine caducă dacă ofertantul devine incapabil înainte de acceptare.",
-      messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
+      correctAnswer: "2",
+      messageForCorrectAnswer: "Corect! Oferta devine caducă dacă destinatarul o refuză.",
+      messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
       point: 1
     },
     {
@@ -373,9 +373,9 @@ export const quizObligatii = {
         "b) nu pot revoca stipulația pentru altul;",
         "c) pot revoca stipulația pentru altul doar cu acordul creditorilor moștenirii."
       ],
-      correctAnswer: "2",
-      messageForCorrectAnswer: "Corect! Moștenitorii stipulantului nu pot revoca stipulația pentru altul.",
-      messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
+      correctAnswer: "3",
+      messageForCorrectAnswer: "Corect! Moștenitorii stipulantului pot revoca stipulația pentru altul doar cu acordul creditorilor moștenirii.",
+      messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
     },
     {

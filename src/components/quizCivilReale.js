@@ -73,7 +73,7 @@ export const quizCivilReale = {
         "b) dispoziţia",
         "c) clandestinitatea"
       ],
-      correctAnswer: "2",
+      correctAnswer: "3",
       messageForCorrectAnswer: "Corect! Dispoziția este atribut al dreptului de proprietate.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
       point: 1
@@ -103,7 +103,7 @@ export const quizCivilReale = {
         "b) inalienabile, prescriptibile şi insesizabile",
         "c) inalienabile, imprescriptibile şi insesizabile"
       ],
-      correctAnswer: "3",
+      correctAnswer: "1",
       messageForCorrectAnswer: "Corect! Sunt inalienabile, imprescriptibile și insesizabile.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
@@ -133,7 +133,7 @@ export const quizCivilReale = {
         "b) uzufructuarul",
         "c) posesorul de bună-credinţă"
       ],
-      correctAnswer: "3",
+      correctAnswer: "2",
       messageForCorrectAnswer: "Corect! Posesorul de bună-credinţă poate avea calitate procesuală pasivă.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
@@ -148,7 +148,7 @@ export const quizCivilReale = {
         "b) certificatul de moştenitor",
         "c) extrasul de carte funciară"
       ],
-      correctAnswer: "3",
+      correctAnswer: "1",
       messageForCorrectAnswer: "Corect! Extrasul de carte funciară face dovada dreptului de proprietate.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
@@ -178,7 +178,7 @@ export const quizCivilReale = {
         "b) la restituirea bunului şi la restituirea productelor acestuia",
         "c) la restituirea cheltuielilor necesare efectuate în legătură cu bunul"
       ],
-      correctAnswer: "2",
+      correctAnswer: "3",
       messageForCorrectAnswer: "Corect! Pârâtul poate fi obligat la restituirea bunului și a produselor acestuia.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
       point: 1
@@ -268,7 +268,7 @@ export const quizCivilReale = {
         "b) cu acordul majorității coproprietarilor;",
         "c) cu acordul tuturor coproprietarilor."
       ],
-      correctAnswer: "c",
+      correctAnswer: "3",
       messageForCorrectAnswer: "Corect! Pentru acte de dispoziție (ex. locațiune peste 3 ani) este necesar acordul tuturor coproprietarilor.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
@@ -373,7 +373,7 @@ export const quizCivilReale = {
         "b) declarativ de drepturi;",
         "c) extinctiv de drepturi."
       ],
-      correctAnswer: "2",
+      correctAnswer: "3",
       messageForCorrectAnswer: "Corect! Partajul are caracter declarativ de drepturi.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
       point: 1
@@ -388,7 +388,7 @@ export const quizCivilReale = {
         "b) renunțarea prin declarație autentică;",
         "c) partajul."
       ],
-      correctAnswer: "3",
+      correctAnswer: "2",
       messageForCorrectAnswer: "Corect! Partajul este modul specific de încetare.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
@@ -418,7 +418,7 @@ export const quizCivilReale = {
         "b) de cel mult 30 de ani;",
         "c) de cel mult 99 de ani."
       ],
-      correctAnswer: "3",
+      correctAnswer: "1",
       messageForCorrectAnswer: "Corect! Durata maximă este de 99 de ani.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
@@ -613,7 +613,7 @@ export const quizCivilReale = {
         "b) doar în favoarea unei persoane fizice",
         "c) doar în favoarea unei persoane juridice"
       ],
-      correctAnswer: "1",
+      correctAnswer: "3",
       messageForCorrectAnswer: "Corect! Uzufructul poate fi constituit în favoarea oricărei persoane fizice sau juridice.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este a).",
       point: 1
@@ -673,7 +673,7 @@ export const quizCivilReale = {
         "b) împreună cu proprietarul",
         "c) în mod proporțional cu cota sa parte"
       ],
-      correctAnswer: "3",
+      correctAnswer: "2",
       messageForCorrectAnswer: "Corect! Uzufructul conferă dreptul de a dispune de bun în mod proporțional cu cota sa parte.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
@@ -903,7 +903,7 @@ export const quizCivilReale = {
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este a).",
       point: 1
     },
-        {
+    {
       id: 161,
       question: "Clauza de inalienabilitate poate consta în:",
       questionType: "text",
@@ -1213,7 +1213,7 @@ export const quizCivilReale = {
         "b) conferă fiecărui coproprietar un drept exclusiv asupra unei cote-părți prezumată ca fiind egală cu a celorlalți coproprietari din dreptul de proprietate;",
         "c) conferă fiecărui coproprietar un drept exclusiv asupra unei cote-părți nedeterminate din dreptul de proprietate."
       ],
-      correctAnswer: "b",
+      correctAnswer: "2",
       messageForCorrectAnswer: "Corect! Cota-parte se prezumă egală dacă nu se dovedește altfel.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
       point: 1
