@@ -140,327 +140,80 @@ const QuizWithTimer: React.FC = () => {
             <Box
               sx={{
                 display: 'flex',
-                flexWrap: 'wrap',
-                justifyContent: 'center',
+                flexDirection: 'column',
+                alignItems: 'center',
                 gap: 2,
                 mb: 4,
               }}
             >
-              <ToggleButtonGroup
-                color="primary"
-                value={selectedQuiz}
-                exclusive
-                onChange={handleQuizChange}
-                sx={{
-                  display: 'flex',
-                  flexWrap: 'wrap',
-                  gap: 2,
-                  background: 'transparent',
-                  boxShadow: 'none',
-                  border: 'none',
-                }}
-              >
-                <ToggleButton
-                  value="obligatii"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'obligatii'
-                      ? 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'obligatii' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'obligatii' ? '2px solid #6a5acd' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)',
-                      color: '#fff',
-                      border: '2px solid #6a5acd',
-                    },
-                  }}
-                >
-                  Drept Civil Obligații
-                </ToggleButton>
-                <ToggleButton
-                  value="obligatiiShort"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'obligatiiShort'
-                      ? 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'obligatiiShort' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'obligatiiShort' ? '2px solid #6a5acd' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)',
-                      color: '#fff',
-                      border: '2px solid #6a5acd',
-                    },
-                  }}
-                >
-                  Obligații (20 întrebări)
-                </ToggleButton>
-                <ToggleButton
-                  value="reale"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'reale'
-                      ? 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'reale' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'reale' ? '2px solid #ff69b4' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)',
-                      color: '#fff',
-                      border: '2px solid #ff69b4',
-                    },
-                  }}
-                >
-                  Drepturi Reale
-                </ToggleButton>
-                <ToggleButton
-                  value="realeShort"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'realeShort'
-                      ? 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'realeShort' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'realeShort' ? '2px solid #ff69b4' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)',
-                      color: '#fff',
-                      border: '2px solid #ff69b4',
-                    },
-                  }}
-                >
-                  Drepturi Reale (20 întrebări)
-                </ToggleButton>
-                <ToggleButton
-                  value="contracte"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'contracte'
-                      ? 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'contracte' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'contracte' ? '2px solid #6a5acd' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)',
-                      color: '#fff',
-                      border: '2px solid #6a5acd',
-                    },
-                  }}
-                >
-                  Drept Civil Contracte Speciale
-                </ToggleButton>
-                <ToggleButton
-                  value="contracteShort"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'contracteShort'
-                      ? 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'contracteShort' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'contracteShort' ? '2px solid #6a5acd' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)',
-                      color: '#fff',
-                      border: '2px solid #6a5acd',
-                    },
-                  }}
-                >
-                  Contracte Speciale (20 întrebări)
-                </ToggleButton>
-                <ToggleButton
-                  value="succesiuni"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'succesiuni'
-                      ? 'linear-gradient(135deg, #ffb347 0%, #6a5acd 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'succesiuni' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'succesiuni' ? '2px solid #ffb347' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #ffb347 0%, #6a5acd 100%)',
-                      color: '#fff',
-                      border: '2px solid #ffb347',
-                    },
-                  }}
-                >
-                  Drept Civil Succesiuni
-                </ToggleButton>
-                <ToggleButton
-                  value="succesiuniShort"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'succesiuniShort'
-                      ? 'linear-gradient(135deg, #ffb347 0%, #6a5acd 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'succesiuniShort' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'succesiuniShort' ? '2px solid #ffb347' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #ffb347 0%, #6a5acd 100%)',
-                      color: '#fff',
-                      border: '2px solid #ffb347',
-                    },
-                  }}
-                >
-                  Succesiuni (20 întrebări)
-                </ToggleButton>
-                <ToggleButton
-                  value="generala"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'generala'
-                      ? 'linear-gradient(135deg, #ffb347 0%, #ff69b4 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'generala' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'generala' ? '2px solid #ffb347' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #ffb347 0%, #ff69b4 100%)',
-                      color: '#fff',
-                      border: '2px solid #ffb347',
-                    },
-                  }}
-                >
-                  Partea Generală
-                </ToggleButton>
-                <ToggleButton
-                  value="generalaShort"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'generalaShort'
-                      ? 'linear-gradient(135deg, #ffb347 0%, #ff69b4 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'generalaShort' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'generalaShort' ? '2px solid #ffb347' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #ffb347 0%, #ff69b4 100%)',
-                      color: '#fff',
-                      border: '2px solid #ffb347',
-                    },
-                  }}
-                >
-                  Partea Generală (20 întrebări)
-                </ToggleButton>
-                <ToggleButton
-                  value="toate"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'toate'
-                      ? 'linear-gradient(135deg, #ff69b4 0%, #ffb347 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'toate' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'toate' ? '2px solid #ffb347' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #ff69b4 0%, #ffb347 100%)',
-                      color: '#fff',
-                      border: '2px solid #ffb347',
-                    },
-                  }}
-                >
-                  TOATE ÎNTREBĂRILE
-                </ToggleButton>
-                <ToggleButton
-                  value="toateShort"
-                  sx={{
-                    minWidth: 180,
-                    minHeight: 60,
-                    fontSize: 18,
-                    fontWeight: 600,
-                    borderRadius: 3,
-                    boxShadow: 2,
-                    m: 1,
-                    background: selectedQuiz === 'toateShort'
-                      ? 'linear-gradient(135deg, #ff69b4 0%, #ffb347 100%)'
-                      : '#fff',
-                    color: selectedQuiz === 'toateShort' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'toateShort' ? '2px solid #ffb347' : '2px solid #e0e0e0',
-                    transition: 'all 0.2s',
-                    '&:hover': {
-                      background: 'linear-gradient(135deg, #ff69b4 0%, #ffb347 100%)',
-                      color: '#fff',
-                      border: '2px solid #ffb347',
-                    },
-                  }}
-                >
-                  TOATE ÎNTREBĂRILE (20 întrebări)
-                </ToggleButton>
-              </ToggleButtonGroup>
+              {/* One row per category */}
+              {[
+                { full: 'obligatii', short: 'obligatiiShort', label: 'Obligații' },
+                { full: 'reale', short: 'realeShort', label: 'Drepturi Reale' },
+                { full: 'contracte', short: 'contracteShort', label: 'Contracte Speciale' },
+                { full: 'succesiuni', short: 'succesiuniShort', label: 'Succesiuni' },
+                { full: 'generala', short: 'generalaShort', label: 'Partea Generală' },
+                { full: 'toate', short: 'toateShort', label: 'TOATE ÎNTREBĂRILE' },
+              ].map(cat => (
+                <Box key={cat.full} sx={{ display: 'flex', gap: 2 }}>
+                  <ToggleButtonGroup
+                    color="primary"
+                    value={selectedQuiz}
+                    exclusive
+                    onChange={handleQuizChange}
+                    sx={{ background: 'transparent', boxShadow: 'none', border: 'none' }}
+                  >
+                    <ToggleButton
+                      value={cat.full}
+                      sx={{
+                        minWidth: 180,
+                        minHeight: 60,
+                        fontSize: 18,
+                        fontWeight: 600,
+                        borderRadius: 3,
+                        boxShadow: 2,
+                        background: selectedQuiz === cat.full
+                          ? 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)'
+                          : '#fff',
+                        color: selectedQuiz === cat.full ? '#fff' : '#6a5acd',
+                        border: selectedQuiz === cat.full ? '2px solid #6a5acd' : '2px solid #e0e0e0',
+                        transition: 'all 0.2s',
+                        '&:hover': {
+                          background: 'linear-gradient(135deg, #6a5acd 0%, #ff69b4 100%)',
+                          color: '#fff',
+                          border: '2px solid #6a5acd',
+                        },
+                      }}
+                    >
+                      {cat.label}
+                    </ToggleButton>
+                    <ToggleButton
+                      value={cat.short}
+                      sx={{
+                        minWidth: 180,
+                        minHeight: 60,
+                        fontSize: 18,
+                        fontWeight: 600,
+                        borderRadius: 3,
+                        boxShadow: 2,
+                        background: selectedQuiz === cat.short
+                          ? 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)'
+                          : '#fff',
+                        color: selectedQuiz === cat.short ? '#fff' : '#6a5acd',
+                        border: selectedQuiz === cat.short ? '2px solid #ff69b4' : '2px solid #e0e0e0',
+                        transition: 'all 0.2s',
+                        '&:hover': {
+                          background: 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)',
+                          color: '#fff',
+                          border: '2px solid #ff69b4',
+                        },
+                      }}
+                    >
+                      {cat.label} (20 întrebări)
+                    </ToggleButton>
+                  </ToggleButtonGroup>
+                </Box>
+              ))}
             </Box>
             <Box sx={{ mt: 3, mb: 2, display: 'flex', justifyContent: 'center' }}>
               <Button
