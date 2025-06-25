@@ -1505,3 +1505,9 @@ export const quizCivilGenerala = {
     },
   ]
 };
+
+export const quizCivilGeneralaShort = {
+  ...quizCivilGenerala,
+  nrOfQuestions: 20,
+  questions: quizCivilGenerala.questions.slice(0, 20),
+};

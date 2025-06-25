@@ -65,3 +65,9 @@ export const quizSuccesiuni = {
     }
   ]
 };
+
+export const quizSuccesiuniShort = {
+  ...quizSuccesiuni,
+  nrOfQuestions: 20,
+  questions: quizSuccesiuni.questions.slice(0, 20),
+};

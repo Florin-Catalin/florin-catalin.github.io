@@ -1505,3 +1505,9 @@ export const quizObligatii = {
     }
   ]
 };
+
+export const quizObligatiiShort = {
+  ...quizObligatii,
+  nrOfQuestions: 20,
+  questions: quizObligatii.questions.slice(0, 20),
+};

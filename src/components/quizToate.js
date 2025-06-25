@@ -16,3 +16,9 @@ export const quizToate = {
   nrOfQuestions: allQuestions.length,
   questions: allQuestions,
 };
+
+export const quizToateShort = {
+  ...quizToate,
+  nrOfQuestions: 20,
+  questions: quizToate.questions.slice(0, 20),
+};

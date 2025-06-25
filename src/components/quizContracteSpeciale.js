@@ -140,3 +140,9 @@ export const quizContracteSpeciale = {
     }
   ]
 };
+
+export const quizContracteSpecialeShort = {
+  ...quizContracteSpeciale,
+  nrOfQuestions: 20,
+  questions: quizContracteSpeciale.questions.slice(0, 20),
+};

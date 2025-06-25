@@ -1505,3 +1505,9 @@ export const quizCivilReale = {
     }
   ]
 };
+
+export const quizCivilRealeShort = {
+  ...quizCivilReale,
+  nrOfQuestions: 20,
+  questions: quizCivilReale.questions.slice(0, 20),
+};
