@@ -13,7 +13,7 @@ export const quizCivilGenerala = {
         "b) o parte a capacității de exercițiu;",
         "c) o condiție de fond, esențială, de eficacitate și generală a actului juridic civil."
       ],
-      correctAnswer: "3",
+      correctAnswer: "1",
       messageForCorrectAnswer: "Corect!",
       messageForIncorrectAnswer: "Greșit.",
       point: 1
@@ -58,7 +58,7 @@ export const quizCivilGenerala = {
         "b) să fie exprimat cu intenția de a produce efecte juridice;",
         "c) să nu fie exteriorizat."
       ],
-      correctAnswer: "2",
+      correctAnswer: "1",
       messageForCorrectAnswer: "Corect!",
       messageForIncorrectAnswer: "Greșit.",
       point: 1
@@ -103,7 +103,7 @@ export const quizCivilGenerala = {
         "b) când se referă la un fapt juridic stricto sensu;",
         "c) poate atrage anularea actului juridic, în condițiile legii."
       ],
-      correctAnswer: "1",
+      correctAnswer: "2",
       messageForCorrectAnswer: "Corect!",
       messageForIncorrectAnswer: "Greșit.",
       point: 1
@@ -148,7 +148,7 @@ export const quizCivilGenerala = {
         "b) este un act juridic translativ de proprietate, bilateral, cu titlu oneros, comutativ, păgubitor, încheiat de minorul între 14-18 ani singur, fără încuviințarea ocrotitorului legal;",
         "c) este un act juridic de administrare, comutativ, păgubitor, încheiat de minorul între 14-18 ani singur, fără încuviințarea ocrotitorului legal."
       ],
-      correctAnswer: "3",
+      correctAnswer: "2",
       messageForCorrectAnswer: "Corect!",
       messageForIncorrectAnswer: "Greșit.",
       point: 1
@@ -328,7 +328,7 @@ export const quizCivilGenerala = {
         "b) nulități de drept și judiciare;",
         "c) nulități exprese și virtuale."
       ],
-      correctAnswer: "c",
+      correctAnswer: "2",
       messageForCorrectAnswer: "Corect!",
       messageForIncorrectAnswer: "Greșit.",
       point: 1
@@ -358,7 +358,7 @@ export const quizCivilGenerala = {
         "b) este expres prevăzută de lege;",
         "c) desființează în întregime actul juridic."
       ],
-      correctAnswer: "1",
+      correctAnswer: "3",
       messageForCorrectAnswer: "Corect!",
       messageForIncorrectAnswer: "Greșit.",
       point: 1
@@ -508,7 +508,7 @@ export const quizCivilGenerala = {
         "b) este posibilă și în cazul nulității absolute;",
         "c) poate interveni indiferent de întinderea nulității."
       ],
-      correctAnswer: "2",
+      correctAnswer: "3",
       messageForCorrectAnswer: "Corect!",
       messageForIncorrectAnswer: "Greșit.",
       point: 1
@@ -598,7 +598,7 @@ export const quizCivilGenerala = {
         "b) constă în posibilitatea titularului unui drept real de a fi satisfăcut cu prioritate față de alți titulari;",
         "c) este specifică dreptului real, nu și dreptului de creanță."
       ],
-      correctAnswer: "c",
+      correctAnswer: "2",
       messageForCorrectAnswer: "Corect!",
       messageForIncorrectAnswer: "Greșit.",
       point: 1
