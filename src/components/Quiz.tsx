@@ -5,6 +5,7 @@ import { quizContracteSpeciale } from './quizContracteSpeciale';
 import { quizSuccesiuni } from './quizSuccesiuni';
 import { quizObligatii } from './quizObligatii';
 import { quizToate } from './quizToate';
+import { quizCivilGenerala } from './quizCivilGenerala';
 import {
     Box,
     Typography,
@@ -21,7 +22,9 @@ const QuizWithTimer: React.FC = () => {
   const [timer, setTimer] = useState(TIMER_SECONDS);
   const [quizFinished, setQuizFinished] = useState(false);
   const [started, setStarted] = useState(false);
-  const [selectedQuiz, setSelectedQuiz] = useState<'civil' | 'contracte' | 'succesiuni' | 'obligatii' | 'toate'>('civil');
+  const [selectedQuiz, setSelectedQuiz] = useState<
+    'generala' | 'reale' | 'contracte' | 'succesiuni' | 'obligatii' | 'toate'
+  >('generala');
   const [score, setScore] = useState(0);
   const [passed, setPassed] = useState<boolean | null>(null);
 
@@ -54,7 +57,7 @@ const QuizWithTimer: React.FC = () => {
 
   const handleQuizChange = (
     event: React.MouseEvent<HTMLElement>,
-    newQuiz: 'civil' | 'contracte' | 'succesiuni' | 'obligatii' | 'toate' | null
+    newQuiz: 'generala' | 'reale' | 'contracte' | 'succesiuni' | 'obligatii' | 'toate' | null
   ) => {
     if (newQuiz) {
       setSelectedQuiz(newQuiz);
@@ -66,7 +69,10 @@ const QuizWithTimer: React.FC = () => {
 
   let currentQuiz;
   let quizTitle = '';
-  if (selectedQuiz === 'civil') {
+  if (selectedQuiz === 'generala') {
+    currentQuiz = quizCivilGenerala;
+    quizTitle = 'DREPT CIVIL - PARTEA GENERALĂ';
+  } else if (selectedQuiz === 'reale') {
     currentQuiz = quizCivilReale;
     quizTitle = 'DREPT CIVIL DREPTURI REALE';
   } else if (selectedQuiz === 'contracte') {
@@ -115,7 +121,7 @@ const QuizWithTimer: React.FC = () => {
                 }}
               >
                 <ToggleButton
-                  value="civil"
+                  value="generala"
                   sx={{
                     minWidth: 180,
                     minHeight: 60,
@@ -124,11 +130,36 @@ const QuizWithTimer: React.FC = () => {
                     borderRadius: 3,
                     boxShadow: 2,
                     m: 1,
-                    background: selectedQuiz === 'civil'
+                    background: selectedQuiz === 'generala'
+                      ? 'linear-gradient(135deg, #ffb347 0%, #ff69b4 100%)'
+                      : '#fff',
+                    color: selectedQuiz === 'generala' ? '#fff' : '#6a5acd',
+                    border: selectedQuiz === 'generala' ? '2px solid #ffb347' : '2px solid #e0e0e0',
+                    transition: 'all 0.2s',
+                    '&:hover': {
+                      background: 'linear-gradient(135deg, #ffb347 0%, #ff69b4 100%)',
+                      color: '#fff',
+                      border: '2px solid #ffb347',
+                    },
+                  }}
+                >
+                  Partea Generală
+                </ToggleButton>
+                <ToggleButton
+                  value="reale"
+                  sx={{
+                    minWidth: 180,
+                    minHeight: 60,
+                    fontSize: 18,
+                    fontWeight: 600,
+                    borderRadius: 3,
+                    boxShadow: 2,
+                    m: 1,
+                    background: selectedQuiz === 'reale'
                       ? 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)'
                       : '#fff',
-                    color: selectedQuiz === 'civil' ? '#fff' : '#6a5acd',
-                    border: selectedQuiz === 'civil' ? '2px solid #ff69b4' : '2px solid #e0e0e0',
+                    color: selectedQuiz === 'reale' ? '#fff' : '#6a5acd',
+                    border: selectedQuiz === 'reale' ? '2px solid #ff69b4' : '2px solid #e0e0e0',
                     transition: 'all 0.2s',
                     '&:hover': {
                       background: 'linear-gradient(135deg, #ff69b4 0%, #6a5acd 100%)',
