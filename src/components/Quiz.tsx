@@ -274,8 +274,8 @@ const QuizWithTimer: React.FC = () => {
             {!quizFinished ? (
               <QuizComponent
                 quiz={currentQuiz}
-                shuffle={true} // this will randomize the questions
-                showInstantFeedback={false}
+                shuffle={true}
+                showInstantFeedback={true} 
                 showDefaultResult={true}
                 onComplete={onComplete}
               />
