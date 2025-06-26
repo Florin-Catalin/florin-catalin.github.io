@@ -2,12 +2,14 @@ import { quizCivilReale } from './quizCivilReale';
 import { quizContracteSpeciale } from './quizContracteSpeciale';
 import { quizSuccesiuni } from './quizSuccesiuni';
 import { quizObligatii } from './quizObligatii';
+import { quizCivilGenerala } from './quizCivilGenerala';
 
 const allQuestions = [
   ...quizCivilReale.questions,
   ...quizContracteSpeciale.questions,
   ...quizSuccesiuni.questions,
   ...quizObligatii.questions,
+  ...quizCivilGenerala.questions
 ];
 
 export const quizToate = {
@@ -19,6 +21,6 @@ export const quizToate = {
 
 export const quizToateShort = {
   ...quizToate,
-  nrOfQuestions: 20,
-  questions: quizToate.questions.slice(0, 20),
+  nrOfQuestions: 100,
+  questions: quizToate.questions.slice(0, 100),
 };
