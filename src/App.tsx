@@ -18,7 +18,7 @@ const AuthorBadge = () => (
       textShadow: '0 1px 4px #0008',
     }}
   >
-    © Ungureanu Florin-Catalin
+    © Bafta !!
   </span>
 );
 

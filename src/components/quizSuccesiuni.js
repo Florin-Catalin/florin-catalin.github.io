@@ -5,7 +5,7 @@ export const quizSuccesiuni = {
   questions: [
     {
       id: 401,
-      question: "401. În caz de deces, transmisiunea patrimoniului defunctului se realizează:",
+      question: "Î401. În caz de deces, transmisiunea patrimoniului defunctului se realizează:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -13,14 +13,14 @@ export const quizSuccesiuni = {
         "b) exclusiv cu respectarea regulilor moștenirii testamentare, în toate cazurile în care defunctul a întocmit un testament;",
         "c) exclusiv cu respectarea regulilor moștenirii testamentare, dacă defunctul a încălcat rezerva succesorală a moștenitorilor rezervatari."
       ],
-      correctAnswer: "2",
+      correctAnswer: "1",
       messageForCorrectAnswer: "Corect! Dacă există testament, se aplică regulile moștenirii testamentare.",
-      messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
+      messageForIncorrectAnswer: "Greșit. Răspunsul corect este a).",
       point: 1
     },
     {
       id: 402,
-      question: "402. Moștenitorii testamentari se deosebesc de moștenitorii legali care nu vin la succesiune doar pentru a culege rezerva succesorală:",
+      question: "Î402. Moștenitorii testamentari se deosebesc de moștenitorii legali care nu vin la succesiune doar pentru a culege rezerva succesorală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -28,14 +28,14 @@ export const quizSuccesiuni = {
         "b) moștenitorii testamentari pot fi moștenitori cu titlu universal;",
         "c) legatarii universali au vocație la întreaga moștenire lăsată de defunct în cazul în care moștenirea este acceptată de cel puțin doi dintre aceștia."
       ],
-      correctAnswer: "2",
+      correctAnswer: "1",
       messageForCorrectAnswer: "Corect! Moștenitorii testamentari pot fi cu titlu universal.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
       point: 1
     },
     {
       id: 403,
-      question: "403. În ipoteza în care defunctul lasă testament:",
+      question: "Î403. În ipoteza în care defunctul lasă testament:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -50,7 +50,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 404,
-      question: "404. În materia succesiunii:",
+      question: "Î404. În materia succesiunii:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -65,7 +65,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 405,
-      question: "405. Ca efect al indivizibilității transmisiunii:",
+      question: "Î405. Ca efect al indivizibilității transmisiunii:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -80,7 +80,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 406,
-      question: "406. Succesibilul este persoana care:",
+      question: "Î406. Succesibilul este persoana care:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -95,7 +95,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 407,
-      question: "407. Succesibilul este persoana care:",
+      question: "Î407. Succesibilul este persoana care:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -110,7 +110,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 408,
-      question: "408. Locul deschiderii succesiunii este:",
+      question: "Î408. Locul deschiderii succesiunii este:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -125,7 +125,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 409,
-      question: "409. Locul deschiderii succesiunii este:",
+      question: "Î409. Locul deschiderii succesiunii este:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -133,14 +133,14 @@ export const quizSuccesiuni = {
         "b) ultima reședință a defunctului;",
         "c) ultimul domiciliul real al defunctului."
       ],
-      correctAnswer: "1",
-      messageForCorrectAnswer: "Corect! Ultimul domiciliu inserat în cartea de identitate.",
-      messageForIncorrectAnswer: "Greșit. Răspunsul corect este a).",
+      correctAnswer: "c",
+      messageForCorrectAnswer: "Corect! Ultimul domiciliu real al defunctului.",
+      messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
     },
     {
       id: 410,
-      question: "410. Persoanele care au vocație succesorală legală sunt:",
+      question: "Î410. Persoanele care au vocație succesorală legală sunt:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -148,14 +148,14 @@ export const quizSuccesiuni = {
         "b) rudele defunctului, indiferent de gradul de rudenie;",
         "c) descendenții defunctului."
       ],
-      correctAnswer: "2",
+      correctAnswer: "3",
       messageForCorrectAnswer: "Corect! Rudele defunctului, indiferent de grad.",
-      messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
+      messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
     },
     {
       id: 411,
-      question: "411. Normele juridice care reglementează succesiunea legală:",
+      question: "Î411. Normele juridice care reglementează succesiunea legală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -170,7 +170,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 412,
-      question: "412. Capacitatea succesorală:",
+      question: "Î412. Capacitatea succesorală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -185,7 +185,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 413,
-      question: "413. Nu au capacitate succesorală de a dobândi bunuri prin moștenire legală:",
+      question: "Î413. Nu au capacitate succesorală de a dobândi bunuri prin moștenire legală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -200,7 +200,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 414,
-      question: "414. Cetățenii străini sau apatrizii pot dobândi dreptul de proprietate asupra terenurilor:",
+      question: "Î414. Cetățenii străini sau apatrizii pot dobândi dreptul de proprietate asupra terenurilor:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -215,7 +215,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 415,
-      question: "415. Actele juridice referitoare la bunurile moștenirii, încheiate de un nedemn față de moștenitorii legali sau testamentari:",
+      question: "Î415. Actele juridice referitoare la bunurile moștenirii, încheiate de un nedemn față de moștenitorii legali sau testamentari:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -230,7 +230,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 416,
-      question: "416. Nedemnitatea succesorală:",
+      question: "Î416. Nedemnitatea succesorală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -245,7 +245,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 417,
-      question: "417. Nedemnul care a intrat deja în posesia unor bunuri din masa succesorală, înainte de deschiderea moștenirii:",
+      question: "Î417. Nedemnul care a intrat deja în posesia unor bunuri din masa succesorală, înainte de deschiderea moștenirii:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -260,7 +260,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 418,
-      question: "418. Sunt excepții de la principiul proximității gradului de rudenie:",
+      question: "Î418. Sunt excepții de la principiul proximității gradului de rudenie:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -275,7 +275,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 419,
-      question: "419. Moștenirea este culeasă de rude aparținând a două clase de moștenitori:",
+      question: "Î419. Moștenirea este culeasă de rude aparținând a două clase de moștenitori:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -290,7 +290,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 420,
-      question: "420. În concurs cu copilul exheredat și părinții defunctului:",
+      question: "Î420. În concurs cu copilul exheredat și părinții defunctului:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -305,7 +305,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 421,
-      question: "421. Reprezentarea nu este admisă în privința:",
+      question: "Î421. Reprezentarea nu este admisă în privința:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -320,7 +320,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 422,
-      question: "422. Descendenții fraților și surorilor defunctului:",
+      question: "Î422. Descendenții fraților și surorilor defunctului:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -335,7 +335,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 423,
-      question: "423. Sunt testamente ordinare:",
+      question: "Î423. Sunt testamente ordinare:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -350,7 +350,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 424,
-      question: "424. Legatul cu sarcină:",
+      question: "Î424. Legatul cu sarcină:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -365,7 +365,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 425,
-      question: "425. Revocarea tacită pentru înstrăinarea bunului:",
+      question: "Î425. Revocarea tacită pentru înstrăinarea bunului:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -380,7 +380,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 426,
-      question: "426. Revocarea judecătorească a legatului pentru ingratitudinea legatarului:",
+      question: "Î426. Revocarea judecătorească a legatului pentru ingratitudinea legatarului:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -395,7 +395,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 427,
-      question: "427. Legatul devine caduc:",
+      question: "Î427. Legatul devine caduc:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -410,7 +410,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 428,
-      question: "428. Rezerva succesorală:",
+      question: "Î428. Rezerva succesorală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -425,7 +425,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 429,
-      question: "429. Redicțiunea liberalităților excesive:",
+      question: "Î429. Redicțiunea liberalităților excesive:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -440,7 +440,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 430,
-      question: "430. Au calitatea de moștenitori rezervatari:",
+      question: "Î430. Au calitatea de moștenitori rezervatari:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -448,14 +448,14 @@ export const quizSuccesiuni = {
         "b) soțul supraviețuitor și ascendenții privilegiați;",
         "c) descendenții, ascendenții privilegiați și ascendenții ordinari."
       ],
-      correctAnswer: "c",
+      correctAnswer: "3",
       messageForCorrectAnswer: "Corect! Descendenții, ascendenții privilegiați și ordinari.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
     },
     {
       id: 431,
-      question: "431. Este un pact asupra unei succesiuni viitoare, interzis de lege:",
+      question: "Î431. Este un pact asupra unei succesiuni viitoare, interzis de lege:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -470,7 +470,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 432,
-      question: "432. Are caracter imperativ regula de reducțiune asupra liberalităților, potrivit căreia:",
+      question: "Î432. Are caracter imperativ regula de reducțiune asupra liberalităților, potrivit căreia:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -485,7 +485,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 433,
-      question: "433. Petiția de ereditate:",
+      question: "Î433. Petiția de ereditate:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -500,7 +500,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 434,
-      question: "434. Comuna, orașul sau municipiul:",
+      question: "Î434. Comuna, orașul sau municipiul:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -515,7 +515,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 435,
-      question: "435. Partajul succesoral:",
+      question: "Î435. Partajul succesoral:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -530,7 +530,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 436,
-      question: "436. Partajul se face prin tulpini:",
+      question: "Î436. Partajul se face prin tulpini:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -545,7 +545,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 437,
-      question: "437. În concurs cu doi descendenți ai defunctului, cota legală a soțului supraviețuitor este:",
+      question: "Î437. În concurs cu doi descendenți ai defunctului, cota legală a soțului supraviețuitor este:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -560,7 +560,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 438,
-      question: "438. Pot cere raportul donațiilor:",
+      question: "Î438. Pot cere raportul donațiilor:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -575,7 +575,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 439,
-      question: "439. Obligația la raport al donațiilor incumbă:",
+      question: "Î439. Obligația la raport al donațiilor incumbă:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -590,7 +590,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 440,
-      question: "440. Reducțiunea donațiilor se poate face și prin echivalent:",
+      question: "Î440. Reducțiunea donațiilor se poate face și prin echivalent:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -605,7 +605,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 441,
-      question: "441. Au dreptul să ceară raportul donațiilor:",
+      question: "Î441. Au dreptul să ceară raportul donațiilor:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -620,7 +620,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 442,
-      question: "442. Raportul datoriilor se aplică:",
+      question: "Î442. Raportul datoriilor se aplică:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -635,7 +635,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 443,
-      question: "443. Nedemnitatea succesorală:",
+      question: "Î443. Nedemnitatea succesorală:",
       questionType: "text",
       answerSelectionType: "multiple",
       answers: [
@@ -650,7 +650,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 444,
-      question: "444. Principiul proximității gradului de rudenie între moștenitorii din aceeași clasă admite excepții:",
+      question: "Î444. Principiul proximității gradului de rudenie între moștenitorii din aceeași clasă admite excepții:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -665,7 +665,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 445,
-      question: "445. Moștenirea este culeasă de rude aparținând a două clase de moștenitori:",
+      question: "Î445. Moștenirea este culeasă de rude aparținând a două clase de moștenitori:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -680,7 +680,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 446,
-      question: "446. De la principiul egalității între rudele din aceeași clasă și de același grad chemate la moștenire, legea admite excepții:",
+      question: "Î446. De la principiul egalității între rudele din aceeași clasă și de același grad chemate la moștenire, legea admite excepții:",
       questionType: "text",
       answerSelectionType: "multiple",
       answers: [
@@ -695,7 +695,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 447,
-      question: "447. Produce efectele juridice urmărite de testator:",
+      question: "Î447. Produce efectele juridice urmărite de testator:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -710,7 +710,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 448,
-      question: "448. Testamentul:",
+      question: "Î448. Testamentul:",
       questionType: "text",
       answerSelectionType: "multiple",
       answers: [
@@ -725,7 +725,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 449,
-      question: "449. Testamentul olograf este valabil:",
+      question: "Î449. Testamentul olograf este valabil:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -740,7 +740,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 450,
-      question: "450. Testamentul olograf:",
+      question: "Î450. Testamentul olograf:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -755,7 +755,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 451,
-      question: "451. Revocarea voluntară tacită a legatului pentru înstrăinarea bunului:",
+      question: "Î451. Revocarea voluntară tacită a legatului pentru înstrăinarea bunului:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -770,7 +770,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 452,
-      question: "452. Un testament nul pentru vicii de formă:",
+      question: "Î452. Un testament nul pentru vicii de formă:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -785,7 +785,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 453,
-      question: "453. Testamentul olograf:",
+      question: "Î453. Testamentul olograf:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -800,7 +800,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 454,
-      question: "454. Testamentul:",
+      question: "Î454. Testamentul:",
       questionType: "text",
       answerSelectionType: "multiple",
       answers: [
@@ -815,7 +815,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 455,
-      question: "455. Revocarea judecătorească a legatului pentru ingratitudinea legatarului:",
+      question: "Î455. Revocarea judecătorească a legatului pentru ingratitudinea legatarului:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -830,7 +830,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 456,
-      question: "456. Legatul devine caduc:",
+      question: "Î456. Legatul devine caduc:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -845,7 +845,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 457,
-      question: "457. Certificatul de moștenitor are efect:",
+      question: "Î457. Certificatul de moștenitor are efect:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -860,7 +860,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 458,
-      question: "458. Cu referire la substituțiile fideicomisare:",
+      question: "Î458. Cu referire la substituțiile fideicomisare:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -875,7 +875,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 459,
-      question: "459. Actele juridice asupra moștenirii nedeschise:",
+      question: "Î459. Actele juridice asupra moștenirii nedeschise:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -890,7 +890,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 460,
-      question: "460. Încheierea valabilă a substituției fideicomisare, conform Codului civil în vigoare, presupune:",
+      question: "Î460. Încheierea valabilă a substituției fideicomisare, conform Codului civil în vigoare, presupune:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -905,7 +905,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 461,
-      question: "461. Au calitatea de moștenitori rezervatari:",
+      question: "Î461. Au calitatea de moștenitori rezervatari:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -913,14 +913,14 @@ export const quizSuccesiuni = {
         "b) soțul supraviețuitor și ascendenții privilegiați;",
         "c) descendenții, ascendenții privilegiați și ascendenții ordinari."
       ],
-      correctAnswer: "c",
+      correctAnswer: "3",
       messageForCorrectAnswer: "Corect! Descendenții, ascendenții privilegiați și ordinari.",
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este c).",
       point: 1
     },
     {
       id: 462,
-      question: "462. Rezerva succesorală:",
+      question: "Î462. Rezerva succesorală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -935,7 +935,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 463,
-      question: "463. Soțul supraviețuitor are dreptul la rezervă succesorală:",
+      question: "Î463. Soțul supraviețuitor are dreptul la rezervă succesorală:",
       questionType: "text",
       answerSelectionType: "multiple",
       answers: [
@@ -950,7 +950,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 464,
-      question: "464. În concurs cu copilul exheredat și părinții defunctului:",
+      question: "Î464. În concurs cu copilul exheredat și părinții defunctului:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -965,7 +965,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 465,
-      question: "465. Dreptul la rezerva succesorală:",
+      question: "Î465. Dreptul la rezerva succesorală:",
       questionType: "text",
       answerSelectionType: "multiple",
       answers: [
@@ -980,7 +980,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 466,
-      question: "466. Acceptarea moștenirii poate fi:",
+      question: "Î466. Acceptarea moștenirii poate fi:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -995,7 +995,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 467,
-      question: "467. Renunțarea la moștenire produce efecte:",
+      question: "Î467. Renunțarea la moștenire produce efecte:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1010,7 +1010,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 468,
-      question: "468. Termenul de acceptare a moștenirii este:",
+      question: "Î468. Termenul de acceptare a moștenirii este:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1025,7 +1025,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 469,
-      question: "469. Acceptarea moștenirii sub beneficiu de inventar:",
+      question: "Î469. Acceptarea moștenirii sub beneficiu de inventar:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1040,7 +1040,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 470,
-      question: "470. Moștenitorul care a acceptat succesiunea pur și simplu:",
+      question: "Î470. Moștenitorul care a acceptat succesiunea pur și simplu:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1055,7 +1055,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 471,
-      question: "471. Renunțarea la moștenire:",
+      question: "Î471. Renunțarea la moștenire:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1070,7 +1070,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 472,
-      question: "472. Acceptarea moștenirii de către un minor:",
+      question: "Î472. Acceptarea moștenirii de către un minor:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1085,7 +1085,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 473,
-      question: "473. Moștenirea vacantă:",
+      question: "Î473. Moștenirea vacantă:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1100,7 +1100,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 474,
-      question: "474. Dreptul de opțiune succesorală:",
+      question: "Î474. Dreptul de opțiune succesorală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1115,7 +1115,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 475,
-      question: "475. Acceptarea moștenirii de către o persoană juridică:",
+      question: "Î475. Acceptarea moștenirii de către o persoană juridică:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1130,7 +1130,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 476,
-      question: "476. Moștenirea legală se deschide:",
+      question: "Î476. Moștenirea legală se deschide:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1145,7 +1145,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 477,
-      question: "477. Moștenirea testamentară poate fi culeasă:",
+      question: "Î477. Moștenirea testamentară poate fi culeasă:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1160,7 +1160,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 478,
-      question: "478. Dreptul de opțiune succesorală se exercită:",
+      question: "Î478. Dreptul de opțiune succesorală se exercită:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1175,7 +1175,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 479,
-      question: "479. Acceptarea moștenirii de către stat:",
+      question: "Î479. Acceptarea moștenirii de către stat:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1190,7 +1190,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 480,
-      question: "480. Moștenirea vacantă:",
+      question: "Î480. Moștenirea vacantă:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1205,7 +1205,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 481,
-      question: "481. Certificatul de moștenitor:",
+      question: "Î481. Certificatul de moștenitor:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1220,7 +1220,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 482,
-      question: "482. Moștenitorii rezervatari pot solicita:",
+      question: "Î482. Moștenitorii rezervatari pot solicita:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1235,7 +1235,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 483,
-      question: "483. Dreptul de moștenire al soțului supraviețuitor:",
+      question: "Î483. Dreptul de moștenire al soțului supraviețuitor:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1250,7 +1250,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 484,
-      question: "484. Moștenirea se transmite:",
+      question: "Î484. Moștenirea se transmite:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1265,7 +1265,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 485,
-      question: "485. Acceptarea moștenirii sub beneficiu de inventar:",
+      question: "Î485. Acceptarea moștenirii sub beneficiu de inventar:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1280,7 +1280,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 486,
-      question: "486. Moștenirea poate fi acceptată:",
+      question: "Î486. Moștenirea poate fi acceptată:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1295,7 +1295,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 487,
-      question: "487. Renunțarea la moștenire:",
+      question: "Î487. Renunțarea la moștenire:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1310,7 +1310,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 488,
-      question: "488. Moștenirea vacantă este culeasă:",
+      question: "Î488. Moștenirea vacantă este culeasă:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1325,7 +1325,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 489,
-      question: "489. Dreptul de opțiune succesorală:",
+      question: "Î489. Dreptul de opțiune succesorală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1340,7 +1340,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 490,
-      question: "490. Acceptarea moștenirii de către o persoană juridică:",
+      question: "Î490. Acceptarea moștenirii de către o persoană juridică:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1355,7 +1355,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 491,
-      question: "491. Moștenirea legală poate fi culeasă:",
+      question: "Î491. Moștenirea legală poate fi culeasă:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1370,7 +1370,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 492,
-      question: "492. Moștenirea testamentară:",
+      question: "Î492. Moștenirea testamentară:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1385,7 +1385,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 493,
-      question: "493. Dreptul de moștenire al soțului supraviețuitor:",
+      question: "Î493. Dreptul de moștenire al soțului supraviețuitor:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1400,7 +1400,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 494,
-      question: "494. Moștenirea se transmite:",
+      question: "Î494. Moștenirea se transmite:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1415,7 +1415,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 495,
-      question: "495. Acceptarea moștenirii sub beneficiu de inventar:",
+      question: "Î495. Acceptarea moștenirii sub beneficiu de inventar:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1430,7 +1430,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 496,
-      question: "496. Moștenirea poate fi acceptată:",
+      question: "Î496. Moștenirea poate fi acceptată:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1445,7 +1445,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 497,
-      question: "497. Renunțarea la moștenire:",
+      question: "Î497. Renunțarea la moștenire:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1458,9 +1458,9 @@ export const quizSuccesiuni = {
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
       point: 1
     },
-     {
+    {
       id: 498,
-      question: "498. Moștenirea vacantă este culeasă:",
+      question: "Î498. Moștenirea vacantă este culeasă:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1475,7 +1475,7 @@ export const quizSuccesiuni = {
     },
     {
       id: 499,
-      question: "499. Dreptul de opțiune succesorală:",
+      question: "Î499. Dreptul de opțiune succesorală:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
@@ -1488,9 +1488,9 @@ export const quizSuccesiuni = {
       messageForIncorrectAnswer: "Greșit. Răspunsul corect este b).",
       point: 1
     },
-      {
+    {
       id: 500,
-      question: "500. Acceptarea moștenirii de către o persoană juridică:",
+      question: "Î500. Acceptarea moștenirii de către o persoană juridică:",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
