@@ -1128,6 +1128,505 @@ c) capacitatea procesuală, calitatea procesuală și justificarea unui interes.
 a) reprezentarea intervine în cazul persoanei fizice lipsite de capacitate de exercițiu;
 b) reprezentarea intervine în cazul persoanei fizice cu capacitate de exercițiu restrânsă;
 c) persoanele juridice nu au capacitate procesuală.
+ 
+              "Drept Procesual Civil"
 
+1001. Instanțele judecătorești sunt:
+a) judecătoriile, tribunalele, curțile de apel și Înalta Curte de Casație și Justiție;
+b) judecătoriile, tribunalele, curțile de apel, Înalta Curte de Casație și Justiție și Curtea Constituțională;
+c) judecătoriile, tribunalele, curțile de apel, Înalta Curte de Casație și Justiție și Consiliul Superior al Magistraturii.
 
+1002. Normele speciale:
+a) se aplică în toate cazurile și în orice materie;
+b) se aplică numai într-o anumită materie, expres stabilită de lege;
+c) nu derogă de la normele generale.
+
+1003. Potrivit principiului disponibilității:
+a) procesul civil poate fi pornit numai la cererea celui interesat;
+b) procesul civil, în cazurile anume prevăzute de lege, poate fi pornit și la cererea altei persoane, organizații ori a unei autorități sau instituții publice ori de interes public;
+c) obiectul și limitele procesului sunt stabilite de către instanța de judecată.
+
+1004. Potrivit principiului disponibilității:
+a) partea poate, după caz, renunța la judecarea cererii de chemare în judecată sau la însuși dreptul pretins;
+b) partea nu poate renunța la exercitarea căilor de atac;
+c) partea nu poate renunța la executarea unei hotărâri.
+
+1005. Sintagma termen optim și previzibil:
+a) are în vedere împrejurarea că durata termenului rezonabil nu trebuie raportată la fiecare caz în parte;
+b) durata termenului rezonabil trebuie raportată la fiecare caz în parte, luând în considerare natura pretențiilor și complexitatea procesului;
+c) comportamentul autorităților competente și al părților nu are niciun fel de relevanță.
+
+1006. Noțiunea de proces echitabil presupune respectarea unor garanții, cum ar fi:
+a) aplicarea și respectarea principiului contradictorialității și a dreptului la apărare;
+b) independența și imparțialitatea instanței nu este o garanție a respectării dreptului la un proces echitabil;
+c) motivarea hotărârii nu este o garanție a respectării dreptului la un proces echitabil.
+
+1007. Principiul dreptului de apărare presupune că:
+a) în tot cursul procesului, părțile au dreptul să fie asistate de un avocat, ales sau numit din oficiu;
+b) părțile nu au dreptul de a lua cunoștință de actele de la dosar;
+c) părțile pot pune concluzii numai prin avocat.
+
+1008. Principiul nemijlocirii presupune:
+a) obligația instanței de a cerceta direct și nemijlocit toate elementele care fundamentează dezlegarea pricinii;
+b) nu este posibilă administrarea probelor de către avocați sau consilieri juridici;
+c) nu este posibilă administrarea probelor de către o altă instanță prin comisie rogatorie.
+
+1009. Principiul rolului activ al judecătorului presupune că:
+a) judecătorul califica dispoziția din oficiu când adresează cereri de chemare în judecată;
+b) judecătorul califică dispoziția de drept a cererii de chemare în judecată;
+c) judecătorul poate modifica temeiul de drept al cererii de chemare în judecată.
+
+1010. Orice acțiune civilă presupune existența următoarelor elemente:
+a) părțile acțiunii, obiectul acțiunii și cauza acțiunii;
+b) capacitatea procesuală, calitatea procesuală, justificarea unei pretenții și interesul;
+c) cererea de chemare în judecată, întâmpinarea și cererea reconvențională.
+
+1011. Condițiile de exercitare ale acțiunii civile sunt:
+a) capacitatea procesuală, calitatea procesuală, formularea unei pretenții și justificarea unui interes;
+b) părțile, obiectul și cauza;
+c) capacitatea procesuală, calitatea procesuală și justificarea unui interes.
+
+1012. Capacitatea procesuală:
+a) reprezentarea intervine în cazul persoanei fizice lipsite de capacitate de exercițiu;
+b) reprezentarea intervine în cazul persoanei fizice cu capacitate de exercițiu restrânsă;
+c) nu poate fi parte in judecata o persoana care are folosinta drepturilor civile.
+
+1013. Transmiterea calității procesuale:
+a) poate fi legală sau convențională;
+b) în cazul persoanelor fizice transmiterea legală a calității procesuale se realizează prin cesiune de creanță;
+c) în cazul persoanelor fizice transmiterea convențională a calității procesuale se realizează prin succesiune.
+
+1014. Transmiterea convențională a calității procesuale are loc dacă intervine:
+a) cesiunea de creanță sau preluarea de datorie;
+b) dezbaterea succesiunii;
+c) reorganizarea.
+
+1015. Referitor la interes ca și condiție de exercitare a acțiunii civile:
+a) trebuie să existe nu numai la declanșarea procedurii judiciare ci pe tot parcursul procesului;
+b) trebuie să existe numai la declanșarea procedurii judiciare;
+c) trebuie să existe doar la pronunțarea hotărârii.
+
+1016. Referitor la interes ca și condiție de exercitare a acțiunii civile:
+a) interesul trebuie să îndeplinească următoarele condiții: să fie legitim, născut și actual, personal și direct;
+b) lipsa interesului nu se invocă pe cale de excepție;
+c) lipsa interesului se invocă pe fond.
+
+1017. Acțiunea în constatare prezintă următoarele particularități față de acțiunea în realizare:
+a) se poate cere și constatarea existenței sau neexistenței unui fapt;
+b) constituie titlu executoriu;
+c) are un caracter subsidiar față de acțiunea în realizare și va fi respinsă ca inadmisibilă dacă partea poate să ceară realizarea dreptului.
+
+1018. Este acțiune patrimonială:
+a) acțiunea de divorț;
+b) acțiunea pentru anularea căsătoriei;
+c) acțiunea în revendicare.
+
+1019. Este acțiune personală:
+a) acțiunea confesorie;
+b) acțiunea negatorie;
+c) acțiunea pentru restituirea unui împrumut.
+
+1020. Referitor la acțiunile principale, accesorii și incidentale:
+a) acțiunea principală este aceea prin care se declanșează procedura judiciară;
+b) acțiunea accesorie este aceea a cărei rezolvare nu depinde de soluția dată acțiunii principale;
+c) acțiunea incidentală este aceea a cărei rezolvare depinde de soluția dată acțiunii principale.
+
+1021. Este acțiune incidentală:
+a) cererea reconvențională și cererea de intervenție voluntară;
+b) cererea de chemare în judecată;
+c) întâmpinarea.
+
+1022. Incompatibilitatea:
+a) mijloacele procedurale prin care se invocă incompatibilitatea sunt abținerea și strămutarea;
+b) cazurile de incompatibilitate sunt expres și limitativ prevăzute de lege;
+c) mijloacele procedurale prin care se invocă incompatibilitatea este doar recuzarea.
+
+1023. Referitor la incompatibilitatea absolută:
+a) judecătorul care a pronunțat o încheiere preparatorie poate judeca aceeași pricină în apel;
+b) judecătorul care a pronunțat o încheiere preparatorie nu poate judeca aceeași pricină în recurs;
+c) judecătorul care a pronunțat hotărârea prin care s-a soluționat cauza poate judeca aceeași pricină în revizuire.
+
+1024. Referitor la abținere:
+a) declarația de abținere se face în scris sau verbal în ședința de judecată, fiind consemnată în încheiere;
+b) declarația de abținere se face întotdeauna în scris de îndată ce judecătorul a cunoscut existența cazului de incompatibilitate;
+c) declarația de abținere se face întotdeauna verbal în ședința de judecată, fiind consemnată în încheiere.
+
+1025. Referitor la recuzare:
+a) recuzarea este reglementată de norme imperative partea fiind obligată să recuze judecătorul;
+b) de regulă, recuzarea se soluționează de un alt complet al instanței respective, în compunerea căruia nu poate intra judecătorul recuzat;
+c) formularea unei cereri de recuzare determină suspendarea judecății.
+
+1026. Intervenția voluntară:
+a) este de două feluri: principală și accesorie;
+b) intervenția este principală atunci când terțul intervenient sprijină apărarea uneia dintre părți;
+c) cererea de intervenție accesorie nu se poate formula înaintea instanței de recurs.
+
+1027. Cererea de intervenție principală:
+a) poate fi făcută numai în fața primei instanțe și înainte de închiderea dezbaterilor;
+b) nu anulează condițiile intervenției principale se poate face și în instanța de apel;
+c) cererea de intervenție principală poate fi formulată direct în recurs, atunci când în cauză nu poate fi exercitată decât calea recursului.
+
+1028. Cererea de intervenție accesorie:
+a) terțul participă voluntar la judecată pentru a apăra drepturile uneia din părțile procesului;
+b) cererea de intervenție accesorie poate fi formulată doar în favoarea părților originare (reclamant, pârât) sau în favoarea părților interveniente (intervenient principal, chemat în garanție);
+c) poate fi făcută numai în fața primei instanțe și înainte de închiderea dezbaterilor.
+
+1029. Compunerea instanței:
+a) cauzele date în competența de primă instanță a curților de apel se judecă de 3 judecători;
+b) cauzele date în competența de primă instanță a tribunalelor se judecă de 2 judecători;
+c) cauzele date în competența de primă instanță a judecătoriilor se judecă de un singur judecător.
+
+1030. Reprezentarea părților:
+a) poate fi legală sau convențională;
+b) poate fi legală, convențională sau judiciară;
+c) poate fi legală sau judiciară.
+
+1031. Reprezentarea părților:
+a) Statul Român este reprezentat prin Ministerul Finanțelor Publice, afară de cazul în care legea stabilește un alt organ în acest sens;
+b) Statul Român este reprezentat prin Banca Națională a României, afară de cazul în care legea stabilește un alt organ în acest sens;
+c) minorul între 14 și 18 ani este reprezentat legal prin părinți.
+
+1032. Referitor la competența materială a judecătoriei:
+a) judecătoria judecă în primă instanță litigiile ai căror obiect are o valoare de până la 200.000 lei;
+b) judecătoria soluționează în primă instanță cererile de împărțire a judecății a căror obiect are o valoare de până la 200.000 lei inclusiv;
+c) judecătoria soluționează în primă instanță cererile de împărțire a judecății indiferent de valoare.
+
+1033. Referitor la competența materială a tribunalului:
+a) soluționează în primă instanță cererile de împărțală judiciară al căror obiect are o valoare mai mare de 200.000 lei;
+b) în primă instanță judecă este instanța de drept comun investită cu toate cererile care nu sunt date prin lege în competența altor instanțe;
+c) potrivit criteriului valorii obiectului cererii, tribunalul soluționează cererile cu o valoare mai mare de 200.000 lei indiferent de natura părților (exceptând cererile de împărțală judiciară).
+
+1034. Competența după valoarea obiectului cererii:
+a) nu se determină după valoarea obiectului capitolului principal de cerere;
+b) pentru stabilirea valorii se vor avea în vedere și accesoriile pretenției principale, respectiv dobânzile, penalitățile, fructele;
+c) instanța legal investită după valoarea obiectului cererii rămâne competentă să judece chiar dacă, ulterior învestirii, intervin modificări în ceea ce privește cuantumul valorii aceluiași obiect.
+
+1035. Conflictul negativ de competență:
+a) apare atunci când două sau mai multe instanțe sau organe cu activitate jurisdicțională se declară necompetente să soluționeze aceeași pricină, declinându-și reciproc competența;
+b) instanța care și-a declinat ultima competență, va soluționa conflictul de competență;
+c) nu determină o întrerupere a cursului judecății.
+
+1036. Conflictul negativ de competență:
+a) nu poate să apară între secții diferite ale aceleași instanțe;
+b) instanța în fața căreia s-a ivit conflictul de competență nu va suspenda judecata cauzei;
+c) instanța în fața căreia s-a ivit conflictul de competență va înainta dosarul instanței competente să soluționeze conflictul.
+
+1037. Excepția de necompetență:
+a) necompetența este de ordine publică în cazul încălcării competenței generale;
+b) necompetența este de ordine publică în cazul încălcării competenței teritoriale alternative;
+c) necompetența generală a instanțelor judecătorești nu poate fi invocată de părți ci doar de către judecător în orice stare a pricinii.
+
+1038. Excepția de necompetență:
+a) necompetența nu este de ordine publică în cazul încălcării competenței materiale;
+b) necompetența nu este de ordine publică în cazul încălcării competenței teritoriale exclusive;
+c) necompetența materială și teritorială exclusivă trebuie invocată de părți ori de către judecător la primul termen de judecată la care părțile sunt legal citate în fața primei instanțe.
+
+1039. Competența teritorială de drept comun:
+a) cererea de chemare în judecată se adresează instanței de la domiciliul sau sediul pârâtului dacă legea nu prevede altfel;
+b) cererea de chemare în judecată se adresează instanței de la domiciliul reclamantului dacă legea nu prevede altfel;
+c) instanța își declină competența de îndată, ulterior sesizării, pârâtul își schimbă domiciliul sau sediul.
+
+1040. Competența teritorială alternativă (facultativă):
+a) cererea de chemare în judecată împotriva unei persoane juridice de drept privat nu se poate face și la instanța locului unde ea are un dezmembrământ fără personalitate juridică;
+b) pârâtul are alegerea între mai multe instanțe deopotrivă competente;
+c) cererea de chemare în judecată a mai multor pârâți poate fi introdusă la instanța competentă pentru oricare dintre aceștia.
+
+1041. Competența teritorială exclusivă (excepțională):
+a) cererile privitoare la drepturile reale imobiliare se introduc numai la instanța în a cărei circumscripție este situat imobilul;
+b) cererile de împărțală judiciară a unui imobil, când indiviziunea rezultă din succesiune se introduc numai la instanța în a cărei circumscripție este situat imobilul;
+c) cererile de împărțală judiciară a unui imobil codevălmaș al foștilor soți se introduc numai la instanța în a cărei circumscripție este situat imobilul.
+
+1042. Sunt acte de procedură emise de către instanța de judecată:
+a) cererea de chemare în judecată, cererea reconvențională, întâmpinarea;
+b) încheierea de ședință, hotărârea judecătorească;
+c) raportul de expertiză.
+
+1043. Când termenul procedural se socotește pe zile:
+a) intră în calcul ziua de la care începe să curgă termenul și ziua când acesta se împlinește;
+b) nu intră în calcul ziua de la care începe să curgă termenul, nici ziua când acesta se împlinește;
+c) nu intră în calcul ziua de la care începe să curgă termenul, dar intră în calcul ziua când acesta se împlinește.
+
+1044. Termenul procedural de 30 de zile de apel aferent unei hotărâri comunicate părții la data de 03 iunie 2025 se va împlini la data de:
+a) 02 iulie 2025;
+b) 03 iulie 2025;
+c) 04 iulie 2025.
+
+1045. Nulitatea nu este condiționată de existența unei vătămări în cazul încălcării dispozițiilor legale referitoare la:
+a) capacitatea procesuală;
+b) calitatea procesuală;
+c) citarea martorilor.
+
+1046. Invocarea nulității:
+a) nulitatea absolută poate fi invocată numai de către judecător în orice termen de judecată;
+b) nulitatea relativă poate fi invocată numai de partea interesată (de cel lezat în drepturile sale) și numai în ipoteza în care regularitatea nu este cauzată prin fapta proprie.
+
+1047. Pentru a se dispune repunerea în termen:
+a) partea trebuie să facă dovada că a fost împiedicată dintr-o împrejurare mai presus de voința ei, împrejurare care s-a produs înainte de împlinirea termenului;
+b) partea trebuie să facă dovada că a fost împiedicată dintr-o împrejurare mai presus de voința ei, împrejurare care s-a produs după împlinirea termenului;
+c) în termen de cel mult 45 zile de la data încetării împiedicării, partea trebuie să formuleze cererea de repunere în termen.
+
+1048. Neîndeplinirea procedurii prealabile:
+a) poate fi invocată de către pârât prin întâmpinare, sub sancțiunea decăderii;
+b) poate fi invocată întotdeauna și de către instanță din oficiu;
+c) poate fi invocată întotdeauna atât de către pârât cât și de către instanță din oficiu.
+
+1049. Cererea de chemare în judecată:
+a) va cuprinde datele de identitate ale părților și ale reprezentantului părții, obiectul cererii, motivele de fapt și de drept, dovezile și semnătura;
+b) nu se timbrează anticipat;
+c) se depune întotdeauna în două exemplare.
+
+1050. Regularizarea cererii de chemare în judecată:
+a) completul căruia i s-a repartizat aleatoriu cauza verifică, de îndată, dacă cererea de chemare în judecată este de competența sa și îndeplinește cerințele prevăzute la art. 194-197 C.pr.civ.;
+b) dacă obligațiile privind completarea cererii nu sunt îndeplinite în termenul acordat se dispune suspendarea cererii;
+c) motivul încheierii de suspendare reclamantul va putea face cerere de reexaminare.
+
+1051. Fixarea primului termen de judecată:
+a) cererea de chemare în judecată se comunică cu pârâtul, punându-i-se în vedere că are obligația de a depune întâmpinare până la primul termen de judecată;
+b) întâmpinarea se comunică de îndată reclamantului, care este obligat să depună răspuns la întâmpinare;
+c) reclamantul va lua cunoștință de răspunsul la întâmpinare la dosarul cauzei.
+
+1052. Modificarea cererii de chemare în judecată:
+a) se poate face numai până la primul termen la care părțile sunt legal citate;
+b) după primul termen la care reclamantul este legal citat se poate face numai cu acordul expres al tuturor părților;
+c) instanța dispune amânarea pricinii și comunicarea cererii modificate pârâtului, în vederea formulării întâmpinării atunci când reclamantul mărește sau micșorează cuantumul obiectului cererii.
+
+1053. Întâmpinarea:
+a) este actul de procedură prin care pârâtul se apără, în fapt și în drept, față de cererea de chemare în judecată;
+b) este actul de procedură prin care pârâtul are, în legătură cu cererea reclamantului, pretenții derivând din același raport juridic sau strâns legate de aceasta;
+c) întâmpinarea nu se comunică reclamantului.
+
+1054. Cererea reconvențională:
+a) în cazul în care pretențiile formulate prin cerere reconvențională privesc și alte persoane decât reclamantul, acestea vor fi chemate în judecată ca pârâți;
+b) reclamantul poate formula cerere reconvențională la cererea reconvențională a pârâtului inițial;
+c) cererea reconvențională trebuie să îndeplinească condițiile prevăzute pentru cererea de chemare în judecată și nu se timbrează.
+
+1055. Nu se impune citarea părților în cazul soluționării:
+a) conflictului negativ de competență;
+b) cererii de strămutare;
+c) căile de atac.
+
+1056. Se soluționează cu citarea părților:
+a) cererea de preschimbare a termenului de judecată;
+b) căile de atac;
+c) conflictul negativ de competență.
+
+1057. Citarea prin publicitate:
+a) se face prin afișarea citației la sediul primăriei;
+b) se face prin publicarea citației într-un ziar local de largă răspândire;
+c) instanța numește un curator pentru pârâtul citat prin publicitate, dintre avocații baroului.
+
+1058. Nu are termen în cunoștință:
+a) partea care se prezintă la un termen de judecată personal sau prin reprezentarea legală sau convențională chiar neîmpreunăți;
+b) partea căreia i s-a înmânat citația, fie personal fie prin reprezentant și a semnat dovada de comunicare;
+c) partea chemată la interogatoriu, în cazul în care nu a fost prezentă la încuviințarea lui, când s-a stabilit și termenul pentru luarea acestuia.
+
+1059. Cauzele se pot amâna în următoarele situații:
+a) prin învoiala părților sau pentru lipsă de apărare;
+b) în cazul majorării cuantumului obiectului cererii de chemare în judecată;
+c) în cazul micșorării cuantumului obiectului cererii de chemare în judecată.
+
+1060. Amânarea judecății pentru lipsă de apărare:
+a) poate fi dispusă în cazul majorării cuantumului obiectului cererii de chemare în judecată;
+b) poate fi dispusă, la cererea părții interesate, numai în mod excepțional, pentru motive temeinice și care nu sunt imputabile părții sau reprezentantului ei;
+c) nu poate fi dispusă după primul termen de judecată.
+
+1061. Primul termen de judecată:
+a) reclamantul își poate modifica cererea de chemare în judecată până la primul termen de judecată la care părțile sunt legal citate;
+b) reclamantul își poate modifica cererea de chemare în judecată până după primul termen de judecată la care este legal citat;
+c) după primul termen modificarea cererii de chemare în judecată poate avea loc numai cu acordul instanței.
+
+1062. Încheierile de ședință:
+a) încheierile prin care se amână judecata sunt preparatorii și leagă instanța, aceasta neputând reveni asupra a ceea ce a statuat;
+b) în cazul încheierilor interlocutorii instanța nu este ținută de acestea și poate reveni asupra lor;
+c) sunt încheieri interlocutorii acelea prin care, fără a se hotărî în totul asupra procesului, se soluționează excepții procesuale, incidente procedurale ori alte chestiuni litigioase.
+
+1063. Excepția conexității:
+a) poate fi invocată de părți sau din oficiu cel mai târziu la primul termen de judecată înaintea instanței ulterior sesizate;
+b) dacă instanțele sunt de grad diferit, conexarea dosarelor se va face la instanța inferioară în grad;
+c) instanțele nu pot fi disjuns și judecate separat.
+
+1064. Cercetarea procesuală:
+a) instanța este chemată să rezolve excepțiile ce se invocă ori pe care le poate ridica din oficiu, să încuviințeze și să administreze probele și să îndeplinească orice alt act de procedură necesar soluționării cauzei;
+b) instanța nu poate examina cererile de intervenție formulate de părți sau de terțe persoane, în condițiile legii;
+c) instanța va soluționa fondul cauzei.
+
+1065. Excepțiile absolute:
+a) sunt cele prin care se invocă încălcarea unor norme care ocrotesc cu precădere interesele părților;
+b) sunt cele prin care se invocă încălcarea unor norme de ordine publică;
+c) pot fi invocate doar de către instanță în orice stare a procesului.
+
+1066. Propunerea probelor:
+a) probele se propun, sub sancțiunea decăderii, de către reclamant prin cererea de chemare în judecată, iar de către pârât prin întâmpinare, dacă legea nu dispune altfel;
+b) judecătorul nu poate, din oficiu, să pună în discuția părților necesitatea admiterii unor alte probe, dacă părțile se împotrivesc;
+c) părțile pot invoca în căile de atac omisiunea instanței de a ordona din oficiu probe.
+
+1067. Terminarea cercetării procesului:
+a) instanța înainte de soluționarea excepțiilor, declară cercetarea procesului încheiată și fixează termen pentru dezbaterea fondului;
+b) instanța după soluționarea excepțiilor, declară cercetarea procesului încheiată și fixează termen pentru dezbaterea fondului;
+c) părțile nu pot solicita judecarea în lipsă a procesului.
+
+1068. Excepția procesuală:
+a) ca natură juridică excepțiile sunt apărări de fond;
+b) pune în discuție întinderea sau existența dreptului pretins;
+c) este mijlocul prin care partea interesată invocă neregularități procedurale sau lipsuri referitoare la dreptul la acțiune.
+
+1069. Excepția procesuală:
+a) admiterea ei conferă autoritate de lucru judecat hotărârii;
+b) după efectul pe care îl produce se clasifică în excepții de procedură și excepții de fond;
+c) după caracterul normelor încălcate se clasifică în excepții absolute și excepții relative.
+
+1070. Înscrisul autentic:
+a) este autentificat după caz prinși și confirmat de o autoritate publică, notarul public sau de o persoană investită cu autoritate publică, în forma și condițiile stabilite de lege;
+b) nu au natura unor înscrisuri autentice încheierile de ședință și hotărârile judecătorești;
+c) face dovada până la proba contrară cu privire la constatările făcute personal de cel care a autentificat actul.
+
+1071. Înscrisul sub semnătură privată:
+a) face dovada până la înscrierea în fals;
+b) face dovada până la proba contrară;
+c) nu poate fi întocmit de către avocat ci numai de către părți.
+
+1072. Pot fi audiați în calitate de martori:
+a) rudele și afinii de gradul al patrulea;
+b) soțul, fostul soț, logodnicul ori concubinul;
+c) persoanele care beneficiază de consiliere judiciară sau tutelă specială.
+
+1073. Suspendarea procesului:
+a) încheierea de suspendare poate fi atacată cu apel, în mod separat la instanța ierarhic superioară;
+b) încheiere de suspendare poate fi atacată odată cu fondul;
+c) poate fi voluntară, de drept și facultativă.
+
+1074. Dezbaterea în fond a procesului:
+a) după închiderea dezbaterilor, părțile nu mai pot depune înscrisuri în probațiune;
+b) după închiderea dezbaterilor, părțile mai pot depune înscrisuri în probațiune;
+c) pronunțarea hotărârii poate fi amânată pentru un termen care nu poate depăși 25 zile.
+
+1075. Deliberarea și pronunțarea hotărârii:
+a) judecătorul care a luat parte la judecată este ținut să se pronunțe chiar dacă nu mai este judecător al instanței respective, cu excepția cazului în care, în condițiile legii, i-a încetat calitatea de judecător sau este suspendat din funcție;
+b) judecătorul care a luat parte la judecată nu este ținut să se pronunțe dacă nu mai este judecător al instanței respective și, în toate situațiile, procesul se repune pe rol;
+c) pronunțarea se face în camera de consiliu.
+
+1076. Luarea hotărârii:
+a) hotărârea trebuie să fie rezultatul acordului membrilor completului de judecată și se redactează numai dacă nu a fost realizată procesul se repune pe rol în complet de divergență;
+b) în cazul în care majoritatea nu e realizată, hotărârea se ia cu majoritatea membrilor completului de judecată;
+c) în cazul în care majoritatea nu poate fi realizată, hotărârea o ia președintele instanței.
+
+1077. Judecata în complet de divergență:
+a) se judecă cu citarea părților;
+b) se judecă fără citarea părților;
+c) judecătorii nu au dreptul de a reveni asupra părerii lor care a provocat divergența.
+
+1078. Întocmirea minutei:
+a) după ce a fost luată hotărârea, se va întocmi de îndată o minută care va cuprinde soluția;
+b) minuta, sub sancțiunea nulității hotărârii, se va semna pe fiecare pagină de către judecători și grefier;
+c) minuta nu trebuie semnată.
+
+1079. Orice cerere de chemare în judecată se perimă de drept, dacă a rămas în nelucrare din motive imputabile părții, timp de:
+a) 24 luni;
+b) 12 luni;
+c) 6 luni.
+
+1080. Renunțarea la judecată:
+a) poate fi făcută verbal în ședință de către parte;
+b) poate fi făcută numai prin înscris autentic;
+c) poate fi făcută numai prin înscris sub semnătură privată.
+
+1081. Renunțarea la dreptul subiectiv dedus judecății:
+a) pentru renunțarea la dreptul subiectiv este necesar acordul pârâtului;
+b) renunțarea se poate face atât verbal în ședință cât și prin înscris autentic;
+c) renunțarea se poate face numai prin înscris autentic.
+
+1082. Tranzacția judiciară:
+a) trebuie încheiată în formă scrisă și va alcătui dispozitivul hotărârii;
+b) tranzacția poate fi atacată cu apel la instanța ierarhic superioară;
+c) tranzacția judiciară nu poate fi atacată, potrivit dreptului comun, decât pentru cauze de nulitate ori rezoluțiune, ori cu acțiune pauliană.
+
+1083. Sunt hotărâri definitive:
+a) hotărârile date în primă instanță susceptibile de a fi atacate cu apel;
+b) hotărârile date în primă instanță, care nu mai pot fi atacate cu apel;
+c) hotărârile date în recurs, chiar dacă prin acestea s-a soluționat fondul pricinii.
+
+1084. Hotărârea judecătorească:
+a) cuprinde partea introductivă sau partea introductivă, considerentele sau motivarea și dispozitivul;
+b) dispozitivul cuprinde obiectul cererii și susținerile pe scurt ale părților;
+c) considerentele cuprind soluția dată tuturor cererilor deduse judecății și cuantumul cheltuielilor de judecată acordate.
+
+1085. Hotărârea judecătorească produce următoarele efecte:
+a) dezînvesteste instanța de litigiul cu care a fost învestită;
+b) constituie înscris sub semnătură privată;
+c) hotărârea judecătorească prin care se ia o măsură provizorie are autoritate de lucru judecat asupra fondului.
+
+1086. Îndreptarea, lămurirea și completarea hotărârii:
+a) erorile sau omisiunile materiale pot fi îndreptate din oficiu ori la cerere în același termen în care se poate declara, după caz, apel sau recurs;
+b) lămurirea cu privire la înțelesul, întinderea sau aplicarea dispozitivului hotărârii poate fi cerută în același termen în care se poate declara, după caz, apel sau recurs;
+c) completarea hotărârii poate fi cerută în același termen în care se poate declara, după caz, apel sau recurs, iar în cazul hotărârilor date în căile extraordinare de atac sau în fond după casarea cu reținere, în termen de 15 zile de la pronunțare.
+
+1087. Cheltuielile de judecată:
+a) pierderea procesului nu echivalează cu existența unei culpe procesuale;
+b) la baza obligației de plată a cheltuielilor de judecată stă culpa procesuală a părții care a pierdut procesul;
+c) dacă acțiunea reclamantului a fost admisă, pârâtul este partea care a câștigat procesul și reclamantul va fi partea care a pierdut procesul și prin urmare va fi obligată la plata cheltuielilor de judecată.
+
+1088. Cheltuielile de judecată:
+a) sunt taxele judiciare de timbru, onorariile avocaților și ale experților;
+b) cererea privind cheltuielile de judecată trebuie să facă, în condițiile legii, o evaluare a existenței și întinderii lor, cel mai târziu la data încheierii hotărârii;
+c) instanța nu poate să reducă cheltuielile de judecată reprezentând onorariul avocaților.
+
+1089. Legalitatea căii de atac:
+a) hotărârea judecătorească este supusă numai căilor de atac prevăzute de lege;
+b) hotărârea judecătorească este supusă numai căilor de atac prevăzute de regulament;
+c) menționarea greșită a căii de atac în dispozitivul hotărârii împiedică partea să declare calea de atac prevăzută de lege.
+
+1090. Ordinea exercitării căilor de atac:
+a) căile extraordinare de atac pot fi exercitate chiar dacă este deschisă și calea de atac a apelului;
+b) căile extraordinare de atac nu pot fi exercitate atât timp cât este deschisă calea de atac a apelului;
+c) în cazul hotărârilor susceptibile de apel, dacă acesta nu a fost exercitat, recursul este admisibil.
+
+1091. Partea din hotărâre care poate fi atacată:
+a) calea de atac se îndreaptă numai împotriva soluției cuprinse în dispozitivul hotărârii;
+b) calea de atac nu poate viza numai considerentele hotărârii prin care s-au dat dezlegări unor probleme de drept;
+c) admițând calea de atac împotriva considerentelor, instanța va înlătura considerentele atacate și le va înlocui cu propriile considerente, menținând soluția cuprinsă în dispozitivul hotărârii atacate.
+
+1092. Sunt forme ale apelului:
+a) apelul principal și apelul accesoriu;
+b) apelul principal și apelul incident;
+c) apelul principal, apelul incident și apelul provocat.
+
+1093. Termenul de apel este de:
+a) 30 de zile de la comunicarea hotărârii, dacă legea nu dispune altfel;
+b) 30 de zile de la pronunțarea hotărârii, dacă legea nu dispune altfel;
+c) 15 zile de la comunicarea hotărârii, dacă legea nu dispune altfel.
+
+1094. Depunerea apelului:
+a) apelul și când este cazul, motivele de apel se depun la instanța care soluționează calea de atac, sub sancțiunea nulității;
+b) apelul și, când este cazul, motivele de apel se depun la instanța a cărei hotărâre se atacă, sub sancțiunea nulității;
+c) apelul nu se timbrează.
+
+1095. Apelul incident:
+a) se depune de către intimat odată cu întâmpinarea la apelul principal;
+b) se depune în același termen în care se depune apelul principal;
+c) dacă apelantul principal își retrage apelul sau dacă acesta este respins ca tardiv, ca inadmisibil ori pentru alte motive care nu impun cercetarea fondului, apelul incident se va disjungue și se va soluționa separat.
+
+1096. Efectul devolutiv al apelului:
+a) în cauzele în care apelul nu se motivează instanța nu va anula apelul;
+b) efectul devolutiv al apelului provoacă o nouă judecată a cauzei;
+c) prin apel se poate schimba cadrul procesual stabilit în fața primei instanțe.
+
+1097. Motivarea recursului:
+a) în cazul în care recursul nu se motivează instanța de recurs se va pronunța, în fond, numai pe baza celor invocate la prima instanță;
+b) recursul este nul dacă nu a fost motivat în termenul legal, cu excepția motivelor de casare care sunt de ordine publică;
+c) motivele de ordine publică nu pot fi ridicate din oficiu de către instanță după împlinirea termenului de motivare a recursului.
+
+1098. Motivele de recurs:
+a) casarea unei hotărâri se poate cere când hotărârea a fost dată cu încălcarea competenței de ordine publică a altei instanțe, chiar fără a fi invocată anterior, excepția necompetenței;
+b) casarea unei hotărâri se poate cere când s-a încălcat autoritatea de lucru judecat;
+c) casarea unei hotărâri se poate cere dacă hotărârea a fost pronunțată de alt judecător decât cel care a luat parte la cercetarea procesului.
+
+1099. Probațiunea în recurs:
+a) în recurs nu se pot produce noi probe;
+b) în recurs nu se pot produce noi probe, cu excepția înscrisurilor noi, care pot fi depuse până la primul termen din recurs;
+c) în recurs nu se pot produce noi probe, cu excepția înscrisurilor noi, care pot fi depuse, sub sancțiunea decăderii, odată cu cererea de recurs, respectiv odată cu întâmpinarea.
+
+1100. Soluțiile instanțelor de recurs:
+a) instanța de recurs va casa cu trimitere o singură dată în cursul procesului în cazul în care instanța a cărei hotărâre este atacată cu recurs a soluționat procesul fără a intra în cercetarea fondului sau judecata s-a făcut în lipsa părții care a fost nelegal citată la dezbaterea fondului;
+b) instanța de recurs va casa cu trimitere o singură dată în cursul procesului în cazul în care instanța a cărei hotărâre este atacată cu recurs a soluționat procesul fără a intra în cercetarea fondului sau judecata s-a făcut în lipsa părții care a fost nelegal citată la administrarea probelor;
+c) instanța de recurs va casa cu trimitere, o singură dată în cursul procesului, în cazul în care instanța a cărei hotărâre este atacată cu recurs a soluționat procesul fără a intra în cercetarea fondului sau judecata s-a făcut în lipsa părții care a fost nelegal citată, atât la administrarea probelor cât și la dezbaterea fondului.
 
